@@ -1,0 +1,12 @@
+# Build products and local IDE data
+.vs/
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.user
+*.suo
